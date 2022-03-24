@@ -1,3 +1,11 @@
+[VERSÃO 14.0.0-01] [2022.03.23]
+
+- Atmosphère atualizado para a versão 1.3.0 (pre-release), com suporte para a versão 14.0.0, assim como as devidas sigpatches;
+- Hekate atualizado para a versão 5.7.2, com suporte para a versão 14.0.0;
+- Lockpick_RCM atualizado com suporte para a versão 14.0.0.
+
+Estou sem tempo para fazer testes agora. Sei que muita gente atualizou e está precisando desse release, então vou publicá-lo logo e listar os "problemas conhecidos" depois.
+
 [VERSÃO 13.2.1-01] [2022.01.20]
 
 - Atmosphère atualizado para a versão 1.2.6;
