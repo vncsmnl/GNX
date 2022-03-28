@@ -1,3 +1,11 @@
+[VERSÃO 14.0.0-02] [2022.03.26]
+
+- NXThemeInstaller atualizado para suportar a versão 14.0.0.
+
+PROBLEMAS CONHECIDOS:
+
+- Mission Control precisa ser atualizado.
+
 [VERSÃO 14.0.0-01] [2022.03.23]
 
 - Atmosphère atualizado para a versão 1.3.0 (pre-release), com suporte para a versão 14.0.0, assim como as devidas sigpatches;
