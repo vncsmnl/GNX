@@ -1,3 +1,54 @@
+[VERSÃO 14.1.0-02] [2022.04.05]
+
+- Mission Control atualizado para suportar a versão 14.1.0.
+
+PROBLEMAS CONHECIDOS:
+
+- Sys-clk ainda precisa de update para funcionar na 14.1.0;
+
+[VERSÃO 14.1.0-01] [2022.04.05]
+
+- Atmosphère atualizado para a versão 1.3.1, com suporte à firmware 14.1.0;
+
+- SigPatches devidamente atualizadas;
+
+- ldn_mitm atualizado para uma build experimental com suporte à firmware 14.1.0 (https://github.com/dogty/ldn_mitm/actions/runs/2093295957);
+
+
+PROBLEMAS CONHECIDOS:
+
+- Sys-clk precisa de update para funcionar na 14.1.0;
+
+- Mission Control precisa de update para funcionar na 14.1.0;
+
+[VERSÃO 14.0.0-04] [2022.04.04]
+
+- TegraExplorer atualizado para suprotar a FW 14.0.0;
+
+- Lockpick_RCM atualizado novamente;
+
+- Mission Control atualizado para uma build experimental com suporte à 14.0.0;
+
+- ldm_mitm atualizado para um fork com suporte à 14.0.0
+
+- Vídeo da brincadeira de primeiro de abril removido do pacote.
+
+[VERSÃO 14.0.0-03] [2022.04.01]
+
+Graças a um exploit recentemente descoberto, tornou-se finalmente possível acessar o Homebrew Menu e bootar o Atmosphère em QUALQUER CONSOLE, sem a necessidade de modchip ou sequer de uso jig / injeção de payload. 
+
+Realizar o desbloqueio agora ficou tão simples quanto copiar o GNX para o seu cartão, acessar o álbum e escolher o ícone do Homebrew Menu.
+
+Além disso:
+
+- Sys-Botbase atualizado para funcionar na versão 14.0.0.
+
+- Sys-clk atualizado para corrigir um crash que ocorria na 14.0.0.
+
+PROBLEMAS CONHECIDOS:
+
+- Mission Control continua precisando ser atualizado.
+
 [VERSÃO 14.0.0-02] [2022.03.26]
 
 - NXThemeInstaller atualizado para suportar a versão 14.0.0.
