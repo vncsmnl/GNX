@@ -41,7 +41,7 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 
 - [Linkalho](https://github.com/rdmrocha/linkalho): Homebrew para vincular e desvincular contas Nintendo. O vínculo é falso e serve apenas para enganar jogos que têm esse requerimento.
 
-- [Tinfoil](https://tinfoil.io/Download#download) com `locations.config` do [Party Shop](https://partyshop.xyz), do [Turtle-in-the-Shop](http://titz.cf/), do [UnderPrivlidged Shop](http://rebrand.ly/UPStash), do [Pengu's Shop](http://pengu.us/), do [Stealth Shop](http://stealthshop.cf), do [Quota Shop](http://quotanx.in), do [ReDUMP Shop](https://redump.cf/) e do [Neko Shop](https://nekoshop.cf/), além da lista de shops do [Carcaschoi](https://github.com/carcaschoi/tinfoil-json).
+- [Tinfoil](https://tinfoil.io/Download#download) com `locations.config` do [Luffshop](https://github.com/carcaschoi/tinfoil-json).
   Instalador de jogos mais popular da cena do Switch, com a capacidade de conectar-se a servidores e baixar jogos diretamente pelo console, além de ter uma grande gama de outras funcionalidades.
 
 - [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases): Payload para dumpar as keys do seu console (diversos softwares precisam das keys para funcionar, com oo NxNandManager).
