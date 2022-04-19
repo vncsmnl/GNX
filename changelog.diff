@@ -1,3 +1,15 @@
+[VERSÃO 14.1.1-01] [2022.04.19]
+
+- Adicionado ao pacote o CNX-Updater, desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR". Este app é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição!
+
+- Ademais, o update 14.1.1 aparentemente não quebrou nada em relação à versão anterior e é seguro atualizar.
+
+
+PROBLEMAS CONHECIDOS:
+
+- Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
+
+
 [VERSÃO 14.1.0-02] [2022.04.05]
 
 - Mission Control atualizado para suportar a versão 14.1.0.
