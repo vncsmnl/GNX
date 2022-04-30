@@ -16,6 +16,7 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/vncsmnl/GNX/releases)**
+## **[APOIE SEM GASTAR NADA!](Donations.md)**
 
 ## 1) **🚦 BOOTLOADER:**
 
