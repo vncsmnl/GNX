@@ -1,3 +1,37 @@
+[v14.1.1-04] [2022.04.29]
+
+- [PT-BR] Atmosphère atualizado para a versão 1.3.2, assim como as devidas SigPatches;
+- [EN-US] Atmosphère updated to version 1.3.2, along with the respective SigPatches;
+
+PROBLEMAS CONHECIDOS / KNOWN ISSUES:
+
+- [PT-BR] Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
+- [EN-US] Sys-clk crashes when activated through Hekate Toolbox. To prevent that from happening, please activate it through Tesla Menu. If you do activate it through Hekate Toolbox and it crashes, just restart the console and the module will be active and working nonetheless.
+
+- [PT-BR] As lojas do Tinfoil não estão funcionando como deveriam. Isso não tem nada a ver com o pacote GNX ou com o aplicativo Tinfoil em si, e sim com a política do Google Drive que mudou (onde são hospedadas a maioria das lojas públicas). Não há previsão de quando ou se a situação será normalizada (O Quota Shop, por exemplo, foi tirado do ar definitivamente). Por ora, utilize outras alternativas para instalar seus jogos (ou jogue esse monte de jogos que eu sei que você tem instalados aí!).
+- [EN-US] The public Tinfoil shops aren't working properly at the moment. That has nothing to do with Tinfoil itself or the GNX package. The issue at hand is related to the recent Google Drive policy changes, where most of the public shops are hosted. As such, it's not known when or whether the shops will be fixed (Quota Shop, for example, has come to an end). For time being, please use another alternative to install games (or play some of the ones you already have installed, I know you have plenty of those!)
+
+
+[v14.1.1-03] [2022.04.26]
+
+- Pequenas modificações realizadas na configuração do Switch-AIO-Updater. Agora é possível atualizar o GNX por ele!
+
+
+PROBLEMAS CONHECIDOS:
+
+- Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
+
+
+[VERSÃO 14.1.1-02] [2022.04.23]
+
+- CNXpack-updater atualizado. Agora o app se auto-atualiza!
+
+
+PROBLEMAS CONHECIDOS:
+
+- Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
+
+
 [VERSÃO 14.1.1-01] [2022.04.19]
 
 - Adicionado ao pacote o CNX-Updater, desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR". Este app é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição!
