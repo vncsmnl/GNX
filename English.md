@@ -3,6 +3,7 @@
 GNX was born from the idea of simplifying life for those who have a modified Nintendo Switch. As you can see from the README, the switch scene is extremely fragmented and composed of several different Devs that have their respective projects, with this, it is kind of impractical for a beginner to know what to download and how to configure everything. That's why the great Goma1337 created an AIO (All in One) package with everything you need to use on your Switch.
 
 ## **[Download it from here!](https://github.com/vncsmnl/GNX/releases)**
+## **[Support Without Spending Anything!](Donations.md)**
 
 ## 1) 🚦BOOTLOADER:
 
