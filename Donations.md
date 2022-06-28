@@ -15,5 +15,3 @@ Não quero e não aceito doações diretas pelo trabalho com o GNX - prefiro que
 - [Twitch](https://www.twitch.tv/pkmlab) - É muito raro eu fazer lives, mas se você tiver uma sub gratuita da Amazon Prime dando moleza, eu aceito! Por favor, não pague pela sub, só use a sub gratuita da Prime e se não for utilizá-la para mais nada.
 
 - Epic Games use a creator tag GOMANX ao comprar ou baixar um jogo gratuito na Epic Games toda quinta-feira eles disponibilizam alguns!
-
-A única exceção ao "não aceito doações diretas" são assinaturas de Discord Nitro, que são bem-vindas uma vez que agora estou subindo o pacote diretamente para o Discord (o Discord Nitro aumenta o limite de upload para 100MB - o Nitro Classic infelizmente é limitado a 50MB). Quem quiser ajudar com isso, pode enviar o gift do Nitro diretamente para Goma#1337.
