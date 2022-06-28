@@ -29,7 +29,7 @@ ldnmitm_config : Homebrew for configuring the ldn_mitm module.
 
 Linkalho : Homebrew to link and unlink Nintendo accounts. The link is false and only serves to trick games that have this requirement.
 
-- [Tinfoil](https://tinfoil.io/Download#download) [Luffshop's](https://github.com/carcaschoi/tinfoil-json) and [JITS Ez Shops's](https://discord.gg/UkwVjft) `locations.config`, including, among others: [StealthShop](https://discord.gg/EZMAupDvWE), [NekoShop](https://discord.gg/pytKu48eMk), [Pengu's Shop](https://discord.gg/b773pXcfPF), [TITS](https://discord.gg/eeGRy63U2F), [QuotaShop](https://discord.gg/kjvT5ah), [ReDUMP Shop](https://discord.gg/tuT59S2zcv) e [Teknik.app](https://discord.gg/tuT59S2zcv).
+[Tinfoil](https://tinfoil.io/Download#download) with [Luffshop's](https://github.com/carcaschoi/tinfoil-json) and [JITS Ez Shops's](https://discord.gg/UkwVjft) `locations.config`, including, among others: [StealthShop](https://discord.gg/EZMAupDvWE), [NekoShop](https://discord.gg/pytKu48eMk), [Pengu's Shop](https://discord.gg/b773pXcfPF), [TITS](https://discord.gg/eeGRy63U2F), [QuotaShop](https://discord.gg/kjvT5ah), [ReDUMP Shop](https://discord.gg/tuT59S2zcv) e [Teknik.app](https://discord.gg/tuT59S2zcv). One of the most popular installers and file managers in the Switch homebrew scene, capable of downloading games from servers and installing them, all from the console itself, not to mention lots of other functionalities.
 
 Lockpick_RCM : Payload to dump keys from your console (several software needs keys to work, like NxNandManager).
 
@@ -91,4 +91,4 @@ PKHeX + Plugins : Best save editor for mainline Pokemon games. Run almsetup_stab
 
 ## 6) 🫂 SPECIAL THANKS
 
-I would like to thank [Nickmoses05](https://www.facebook.com/groups/lllii/permalink/1220497388481591/) for transcribing the README into English.
+We would like to thank [Nickmoses05](https://www.facebook.com/groups/lllii/permalink/1220497388481591/) for transcribing the README into English and all the devs and teams for all the hard work they selflessly dedicate to the scene.
