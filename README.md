@@ -109,7 +109,7 @@ Podem ser habilitados ou desabilitados pelo homebrew Hekate Toolbox ou pelo Tesl
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecemos a todos os desenvolvedores e grupos responsáveis por cada um dos projetos inclusos no pacote. O GNX é mantido por:
 
 <table>
   <tr>
