@@ -30,7 +30,7 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 
 - [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/releases): Software que atualiza diversos arquivos úteis para um switch desbloqueado. Por padrão, ele vem no pacote com vários recursos desativados, a fim de evitar que usuários mais leigos desconfigurem o GNX e acabem, entre outras coisas, banidos. Se voce não sabe o que está fazendo, use esse homebrew apenas para baixar cheats.
 
-- [CNX-update](https://github.com/AMSNX/cnxpack-updater): Este homebrew, desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR", é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição com a cena!
+- [CNX-update](https://github.com/AMSNX/cnxpack-updater): Este fork do [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater/releases), desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR", é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição com a cena!
 
 - [Homebrew App Store](https://www.switchbru.com/appstore/): Uma "loja de homebrews" mantida pela comunidade. Por ela você pode baixar outros softwares que não são inclusos no pacote.
 
