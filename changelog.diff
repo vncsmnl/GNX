@@ -1,3 +1,44 @@
+[v14.1.2-03] [2022.07.01]
+
++ [PT-BR] Hekate atualizado para a versão 5.8.0.
++ [EN-US] Hekate updated to version 5.8.0
+
+
+PROBLEMAS CONHECIDOS / KNOWN ISSUES:
+
++ [PT-BR] Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
++ [EN-US] Sys-clk crashes when activated through Hekate Toolbox. To prevent that from happening, please activate it through Tesla Menu. If you do activate it through Hekate Toolbox and it crashes, just restart the console and the module will be active and working nonetheless.
+
+
+[v14.1.2-02] [2022.06.28]
+
++ [PT-BR] Switch-AIO-Updater atualizado.
++ [EN-US] Switch-AIO-Updater updated.
+
++ [PT-BR] Battery_Desync_Fixer_NX adicionado ao pacote. Visite https://github.com/CTCaer/battery_desync_fix_nx e leia com atenção as instruções de como utilizar este app caso sua bateria esteja descalibrada.
++ [EN-US] Battery_Desync_Fixer_NX added to the package. Visit https://github.com/CTCaer/battery_desync_fix_nx for usage instructions if you have battery desynchronization issues.
+
++ [PT-BR] Lista de shops do Tinfoil atualizada.
++ [EN-US] Tinfoil shop list updated.
+
+PROBLEMAS CONHECIDOS / KNOWN ISSUES:
+
++ [PT-BR] Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
++ [EN-US] Sys-clk crashes when activated through Hekate Toolbox. To prevent that from happening, please activate it through Tesla Menu. If you do activate it through Hekate Toolbox and it crashes, just restart the console and the module will be active and working nonetheless.
+
+
+[v14.1.2-01] [2022.06.13]
+
++ [PT-BR] Alguns shops adicionados ao locations.conf do Tinfoil.
++ [EN-US] A couple new shops were added to Tinfoil's locations.conf.
+
+
+PROBLEMAS CONHECIDOS / KNOWN ISSUES:
+
++ [PT-BR] Sys-clk crasha se ativado pelo Hekate Toolbox. Para evitar isso, ative-o pelo Tesla Menu. Se você ativar pelo Hekate Toolbox e e crashar, apenas reinicie o console e ele funcionará normalmente.
++ [EN-US] Sys-clk crashes when activated through Hekate Toolbox. To prevent that from happening, please activate it through Tesla Menu. If you do activate it through Hekate Toolbox and it crashes, just restart the console and the module will be active and working nonetheless.
+
+
 [v14.1.1-04] [2022.04.29]
 
 - [PT-BR] Atmosphère atualizado para a versão 1.3.2, assim como as devidas SigPatches;
