@@ -1,0 +1,3 @@
+127.0.0.1 *nintendo*
+95.216.149.205 *conntest.nintendowifi.net
+95.216.149.205 *ctest.cdn.nintendo.net

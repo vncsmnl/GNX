@@ -1,0 +1,284 @@
+2019-10-25 00:00:00: File check succeeded! Loading configs...
+2019-10-25 00:00:00: Failed to read from dualshock 4 config!
+2019-10-25 00:00:00: Successfully created event for Dualshock 4 0x5c4
+2019-10-25 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-10-25 00:00:00: Get module result: 0x0
+2019-10-25 00:00:00: PSC thread start: 0x0
+2019-10-25 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-10-25 00:00:00: Get module result: 0x0
+2019-10-25 00:00:00: PSC thread start: 0x0
+2019-10-25 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-02 00:00:00: Get module result: 0x0
+2019-11-02 00:00:00: PSC thread start: 0x0
+2019-11-02 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-02 00:00:00: Get module result: 0x0
+2019-11-02 00:00:00: PSC thread start: 0x0
+2019-11-02 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-04 00:00:00: Get module result: 0x0
+2019-11-04 00:00:00: PSC thread start: 0x0
+2019-11-04 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-05 00:00:00: Get module result: 0x0
+2019-11-05 00:00:00: PSC thread start: 0x0
+2019-11-05 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-06 00:00:00: Get module result: 0x0
+2019-11-06 00:00:00: PSC thread start: 0x0
+2019-11-06 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-09 00:00:00: Get module result: 0x0
+2019-11-09 00:00:00: PSC thread start: 0x0
+2019-11-09 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-09 00:00:00: Get module result: 0x0
+2019-11-09 00:00:00: PSC thread start: 0x0
+2019-11-09 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-09 00:00:00: Get module result: 0x0
+2019-11-09 00:00:00: PSC thread start: 0x0
+2019-11-09 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-09 00:00:00: Get module result: 0x0
+2019-11-09 00:00:00: PSC thread start: 0x0
+2019-11-09 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-09 00:00:00: Get module result: 0x0
+2019-11-09 00:00:00: PSC thread start: 0x0
+2019-11-09 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-10 00:00:00: Get module result: 0x0
+2019-11-10 00:00:00: PSC thread start: 0x0
+2019-11-10 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-11 00:00:00: Get module result: 0x0
+2019-11-11 00:00:00: PSC thread start: 0x0
+2019-11-11 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-11 00:00:00: Get module result: 0x0
+2019-11-11 00:00:00: PSC thread start: 0x0
+2019-11-11 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-11 00:00:00: Get module result: 0x0
+2019-11-11 00:00:00: PSC thread start: 0x0
+2019-11-11 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-12 00:00:00: 
+
+New sysmodule session started on version 0.5.1
+2019-11-12 00:00:00: Get module result: 0x0
+2019-11-12 00:00:00: PSC thread start: 0x0
+2019-11-23 09:53:18: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 09:53:18: Get module result: 0x0
+2019-11-23 09:53:18: Is psc thread running: 1
+2019-11-23 09:53:18: Is event thread running: 1
+2019-11-23 09:57:17: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 09:57:17: Get module result: 0x0
+2019-11-23 09:57:17: Is psc thread running: 1
+2019-11-23 09:57:17: Is event thread running: 1
+2019-11-23 10:07:17: Registered Xbox 360 controller
+2019-11-23 10:07:17: Interface created successfully
+2019-11-23 10:07:17: Catch-all event went off
+2019-11-23 10:07:44: Clearing interfaces before going to sleep
+2019-11-23 10:08:13: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 10:08:13: Get module result: 0x0
+2019-11-23 10:08:13: Is psc thread running: 1
+2019-11-23 10:08:13: Is event thread running: 1
+2019-11-23 10:08:13: Registered Xbox 360 controller
+2019-11-23 10:08:13: Interface created successfully
+2019-11-23 10:08:13: Catch-all event went off
+2019-11-23 10:09:01: Clearing interfaces before going to sleep
+2019-11-23 10:21:27: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 10:21:27: Get module result: 0x0
+2019-11-23 10:21:27: Is psc thread running: 1
+2019-11-23 10:21:27: Is event thread running: 1
+2019-11-23 10:21:44: Registered Xbox 360 controller
+2019-11-23 10:21:44: Interface created successfully
+2019-11-23 10:21:44: Catch-all event went off
+2019-11-23 10:23:05: Clearing interfaces before going to sleep
+2019-11-23 14:14:11: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 14:14:11: Get module result: 0x0
+2019-11-23 14:14:11: Is psc thread running: 1
+2019-11-23 14:14:11: Is event thread running: 1
+2019-11-23 14:32:23: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 14:32:23: Get module result: 0x0
+2019-11-23 14:32:23: Is psc thread running: 1
+2019-11-23 14:32:23: Is event thread running: 1
+2019-11-23 14:33:51: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 14:33:51: Get module result: 0x0
+2019-11-23 14:33:51: Is psc thread running: 1
+2019-11-23 14:33:51: Is event thread running: 1
+2019-11-23 14:34:42: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 14:34:42: Get module result: 0x0
+2019-11-23 14:34:42: Is psc thread running: 1
+2019-11-23 14:34:42: Is event thread running: 1
+2019-11-23 14:41:35: 
+
+New sysmodule session started on version 0.5.2
+2019-11-23 14:41:35: Get module result: 0x0
+2019-11-23 14:41:35: Is psc thread running: 1
+2019-11-23 14:41:35: Is event thread running: 1
