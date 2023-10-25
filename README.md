@@ -13,7 +13,7 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 [![GitHub All Releases](https://img.shields.io/github/downloads/vncsmnl/GNX/total)](https://github.com/vncsmnl/GNX/releases)
 [![Latest release](https://img.shields.io/github/v/release/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/releases)
 [![GitHub issues](https://img.shields.io/github/issues/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/issues)
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/vncsmnl/GNX/blob/main/LICENSE)
 
 ## ► **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/vncsmnl/GNX/releases)** ◄
 
@@ -121,7 +121,7 @@ Agradecimentos especiais para as seguintes pessoas que contribuíram para este p
 
 ## 📝 Licença
 
-[![Licença](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/GNX/blob/main/LICENSE)
+[![Licença](https://img.shields.io/github/license/vncsmnl/GNX?branch=main&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/GNX/blob/main/LICENSE)
 
 The Nintendo Switch names and logos are a trademark of [Nintendo](https://github.com/Nintendo). This repository is in no way affiliated with [Nintendo](https://github.com/Nintendo) or any of its partners.
 
