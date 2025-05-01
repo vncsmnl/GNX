@@ -1,4 +1,4 @@
-<h1 align="center">GNX aka GomaNX: Nintendo Switch AIO CFW</h1>
+<h1 align="center">GNX a.k.a. GomaNX: Nintendo Switch AIO CFW</h1>
 
 For details about how to properly setup GNX, check [English Guide](English.md).
 
