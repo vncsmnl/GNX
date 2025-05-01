@@ -5,7 +5,7 @@ For details about how to properly setup GNX, check [English Guide](English.md).
 O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários **Devs** diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o [Goma1337](https://twitter.com/goma1337) criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch.
 
 <div align="center">
-<img src="./assets/background2.png" alight-itens="center">
+<img src="./assets/background3.png" alight-itens="center">
 </div>
 
 [![Discord](https://img.shields.io/discord/570641761937129484?color=%235662f6&label=Discord&logo=Discord&logoColor=%23FFF)](https://discordapp.com/invite/8uhDqyx)
